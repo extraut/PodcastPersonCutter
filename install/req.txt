@@ -1,0 +1,8 @@
+opencv-python
+numpy
+gradio
+pillow
+face_recognition
+rembg
+moviepy
+
