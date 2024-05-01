@@ -8,8 +8,8 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
    - Python 3.x
    - Clone the repository and navigate to the directory:
      ```
-     git clone https://github.com/SpaceVX/YOLOFaceCutter.git
-     cd YOLOFaceCutter
+     git clone https://github.com/SpaceVX/PodcastPersonCutter.git
+     cd PodcastPersonCutter
      ```
    - Goto install folder - run .bat file.
    - Enjoy!🌟
