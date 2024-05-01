@@ -11,7 +11,25 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
      git clone https://github.com/SpaceVX/PodcastPersonCutter.git
      cd PodcastPersonCutter
      ```
-   - Goto install folder - run .bat file.
+   - Goto link -
+     ```
+     https://drive.google.com/file/d/1nPhmy4N0PWAcdHgCUCKc6wPlNkzI32Cj/view?usp=drive_link
+     ```
+     (FFMPEG)
+     ```
+     avcodec-60.dll
+     avdevice-60.dll
+     avfilter-9.dll
+     avformat-60.dll
+     avutil-58.dll
+     ffmpeg.exe
+     ffplay.exe
+     ffprobe.exe
+     postproc-57.dll
+     swresample-4.dll
+     swscale-7.dll
+     ```
+   - Next goto install folder - run .bat file.
    - Enjoy!🌟
 
 2. **Use**:
@@ -22,7 +40,7 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
 
 ## How It Works
 
-- PodcastPersonCutter uses the DLIB face detection model and face_recognition to identify faces in a video.
+- PodcastPersonCutter uses the face_recognition face detection model and face_recognition to identify faces in a video.
 - The program pre-processes frames, applies the face detection model and tracks them throughout the video.
 - Detected faces are saved and can be used for further editing or processing.
 - The desired face from the video will be cut into the final video with audio. Ideal for creating voice models later on).
