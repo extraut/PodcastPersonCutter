@@ -8,7 +8,7 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
    - Python 3.x
    - Clone the repository and navigate to the directory:
      ```
-     git clone https://github.com/SpaceVX/PodcastPersonCutter.git
+     git clone https://github.com/extraut/PodcastPersonCutter.git
      cd PodcastPersonCutter
      ```
    - Goto link -
