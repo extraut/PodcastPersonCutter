@@ -6,7 +6,7 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
 
 1. **Dependencies Installation & Run**:
    - Python 3.x
-   - Clone the repository and navigate to the directory:
+   - Downloads last releases:
      ```
      https://github.com/extraut/PodcastPersonCutter/releases
      ```
