@@ -4,39 +4,15 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
 
 ## How to Use / Установка
 
-1. **Dependencies Installation**:
+1. **Dependencies Installation & Run**:
    - Python 3.x
    - Clone the repository and navigate to the directory:
      ```
-     git clone https://github.com/extraut/PodcastPersonCutter.git
-     cd PodcastPersonCutter
+     https://github.com/extraut/PodcastPersonCutter/releases
      ```
-   - Goto link -
-     ```
-     https://drive.google.com/file/d/1nPhmy4N0PWAcdHgCUCKc6wPlNkzI32Cj/view?usp=drive_link
-     ```
-     (FFMPEG)
-     ```
-     avcodec-60.dll
-     avdevice-60.dll
-     avfilter-9.dll
-     avformat-60.dll
-     avutil-58.dll
-     ffmpeg.exe
-     ffplay.exe
-     ffprobe.exe
-     postproc-57.dll
-     swresample-4.dll
-     swscale-7.dll
-     ```
-   - Next goto install folder - run .bat file.
+   - Next run install.bat file.
+   - After install start run.bat file.
    - Enjoy!🌟
-
-2. **Use**:
-   - Run the program:
-     ```
-     python main.py
-     ```
 
 ## How It Works
 
