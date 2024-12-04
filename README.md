@@ -10,6 +10,10 @@ PodcastPersonCutter is a powerful tool that enables easy video editing, focusing
      ```
      https://github.com/extraut/PodcastPersonCutter/releases
      ```
+   - Download CMake :
+     ```
+     https://cmake.org/download/
+     ```
    - Next run install.bat file.
    - After install start run.bat file.
    - Enjoy!🌟
